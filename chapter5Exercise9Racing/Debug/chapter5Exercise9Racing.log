@@ -1,4 +1,4 @@
-﻿Build started 2021-01-21 3:31:47 PM.
+﻿Build started 2021-01-25 2:53:33 PM.
      1>Project "C:\Users\ayden.holgate\Documents\Visual Studio 2012\Projects\My C++ Folder\chapter5\chapter5Exercise9Racing\chapter5Exercise9Racing\chapter5Exercise9Racing.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\chapter5Exercise9Racing.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt chapter5Exercise9Racing.cpp
@@ -11,4 +11,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.78
+Time Elapsed 00:00:02.21
