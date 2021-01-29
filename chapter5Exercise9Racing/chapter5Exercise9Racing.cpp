@@ -1,6 +1,6 @@
-// This program 
+// This program manipulates times in minutes and seconds
 // Written by: Ayden Holgate
-// Date: Jan. , 2021
+// Date: Jan. 21, 2021
 
 // chapter5Exercise9Racing.cpp : Defines the entry point for the console application.
 //
